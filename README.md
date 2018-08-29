@@ -3,7 +3,9 @@ This repository contains code examples for converting small image datasets into 
 
 This code uses python2.7 and TensorFlow 1.8.0
 
-!!! This is by no means an effective or scalable way of handeling image proccessing for anything more than a TOY netowrk.!!!
-This is for quick and dirty results 
+!!! This is by no means an effective or scalable way of handling image processing for anything more than a TOY network.!!!
+
+This is simply code for quick and dirty results
+
 
 
