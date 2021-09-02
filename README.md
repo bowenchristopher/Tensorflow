@@ -5,7 +5,7 @@ This code uses python2.7 and TensorFlow 1.8.0
 
 !!! This is by no means an effective or scalable way of handling image processing for anything more than a TOY network.!!!
 
-This is simply code for quick and dirty results
+This is old code for quick and dirty results
 
 
 
